@@ -1,11 +1,28 @@
-Hi there 👋, I’m Alex D'Souza
+# Hi there 👋, I’m Alex D'Souza
 
-💻 Aspiring AI Specialist | Former Professional Gamer | Lifelong Learner
+💻 Machine Learning Researcher | Master's Student at UC Davis | Former Professional Gamer 
 
-About Me
+---
 
-🎓 Currently pursuing my Master's in Computer Science with a focus on AI at UC Davis.
+### About Me
+- 🎓 Currently pursuing my **Master's in Computer Science** with a focus on **AI**.  
+- 🎮 Former professional Smite player (alias: *homiefe*), competed internationally, learned teamwork, strategy, and resilience.  
+- 🌍 Passionate about problem-solving, research, and currently focusing on **LLM safety and interpretability**.
 
-🎮 Former professional Smite player (alias: homiefe), competed internationally, learned teamwork, strategy, and resilience.
+---
 
-🌍 Passionate about making LLM's safe and interpretable.
+### Skills & Interests
+- **Programming & Tech:** Python, C++, Machine Learning, Large Language Models, Computer Networks  
+- **Soft Skills:** Leadership, mentoring (TA experience), teamwork, adaptability, grit  
+
+---
+
+### Fun Facts
+- 🌟 Ranked **#2 jungler in the world** in Smite at peak.  
+- 🌟 Traveled solo to the **Amazon rainforest** for adventure.  
+
+---
+
+### Let's Connect 
+- 📫 Email: `alexanderdanieldsouza@gmail.com`  
+- 🌐 LinkedIn: [linkedin.com/in/alexanderdsouza](#)
