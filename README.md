@@ -6,7 +6,7 @@
 
 ### About Me
 - 🎓 Currently pursuing my **Master's in Computer Science** with a focus on **AI**.  
-- 🎮 Former professional Smite player (alias: *homiefe*), competed internationally, learned teamwork, strategy, and resilience.  
+- 🎮 Former professional Smite player (alias: *Homiefe*), competed internationally, learned teamwork, strategy, and resilience.  
 - 🌍 Passionate about problem-solving, research, and currently focusing on **LLM safety and interpretability**.
 
 ---
