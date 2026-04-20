@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Alex D'Souza
 
-💻 Machine Learning Researcher | Master's Student at UC Davis | Former Professional Gamer 
+💻 Machine Learning Engineer @ Typeface | MS CS at UC Davis | Former Professional Gamer 
 
 ---
 
