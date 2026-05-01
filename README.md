@@ -17,12 +17,6 @@
 
 ---
 
-### Fun Facts
-- 🌟 Ranked **#2 jungler in the world** in Smite at peak.  
-- 🌟 Traveled solo to the **Amazon rainforest** for adventure.  
-
----
-
 ### Let's Connect 
 - 📫 Email: `alexanderdanieldsouza@gmail.com`  
 - 🌐 LinkedIn: [linkedin.com/in/alexanderdsouza](#)
